@@ -359,7 +359,7 @@ a:hover{
       }
       
       footer {
-      background-color: #a2a0a0;
+      background-color: #aba3a3;
       color: #fff;
       padding: 20px 0;
       }
@@ -367,7 +367,7 @@ a:hover{
       .footer-content {
       display: flex;
       flex-wrap: wrap;
-    
+    color: #000;
       justify-content: space-between;
       
       }
