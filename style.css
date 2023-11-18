@@ -367,8 +367,12 @@ a:hover{
       .footer-content {
       display: flex;
       flex-wrap: wrap;
+    
       justify-content: space-between;
+      
       }
+
+      .footer-content h1
       
       .footer-section {
       flex: 1;
@@ -384,8 +388,13 @@ a:hover{
       }
       
       .social-icon {
-      display: inline-block;
+      /* display: inline-block; */
+      display: flex;
       margin-right: 10px;
+      }
+       .social-icon img{
+        width: 30px;
+        
       }
       
       /* Responsive styles */
